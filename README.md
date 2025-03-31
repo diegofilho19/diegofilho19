@@ -62,5 +62,5 @@
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-DiegoMedeiros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-medeiros-alves-de-ara%C3%BAjo-filho-71ba2a306/)](https://www.linkedin.com/in/diego-medeiros-alves-de-ara%C3%BAjo-filho-71ba2a306/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dgmedeirosaafilho@gmail.com)](mailto:dgmedeirosaafilho@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/diegofilho19)
+[![Gmail Badge](https://img.shields.io/badge/-dgmedeirosaafilho@gmail.com.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dgmedeirosaafilho@gmail.com)](mailto:dgmedeirosaafilho@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/diegofilho19?label=follow&style=social)](https://github.com/diegofilho19)
