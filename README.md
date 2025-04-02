@@ -42,7 +42,7 @@
 <br/>
 
 <a href="https://github.com/diegofilho19" title="Perfil do Diego Filho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegofilho19&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegofilho19&theme=githubdark&show_icons=true" />
 </a>
 
 ### ⚙️ Análise do Github
