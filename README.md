@@ -6,6 +6,7 @@
 - 💼 Trabalhando como FullStack na IVF Assessoria.
 - 🌱 Aprendendo mais sobre React Native, JavaScript, PHP, NodeJS, Design UX/UI, MySQL.
 - 📘 Disposto a aprender cada vez mais.
+- ❔ Poucas contribuições amostra, mas tem projetos privados que estou realizando...
 
 ## Minhas Skills
 
