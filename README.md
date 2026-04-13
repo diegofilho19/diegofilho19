@@ -1,12 +1,11 @@
 
 ## Sobre mim
 
-- 🫡 Me chamo Diego Medeiros, um curioso que curte bastante esse mundo da programação.
-- 🎓 Tecnólogo em Analise e Desenvolvimento de Sistemas
-- 💼 Trabalhando como FullStack na IVF Assessoria.
-- 🌱 Aprendendo mais sobre React Native, JavaScript, PHP, NodeJS, Design UX/UI, MySQL.
-- 📘 Disposto a aprender cada vez mais.
-- ❔ Poucas contribuições a amostra, mas tem projetos privados que estou realizando...
+- Me chamo Diego Medeiros, Sou desenvolvedor FullStack com foco em aplicações web e mobile. Atualmente trabalho com Laravel e React Native, desenvolvendo soluções reais para gestão e automação de processos. Tenho experiência com APIs REST, integrações com banco de dados e construção de interfaces funcionais.
+- Tecnólogo em Analise e Desenvolvimento de Sistemas
+- Experiência prática com sistemas em produção
+- Desenvolvimento de apps mobile com React Native
+- Integração com APIs e automação de processos
 
 ## Minhas Skills
 
@@ -41,6 +40,15 @@
 
 <br/>
 
+## Projetos em destaque
+
+- Sistema de Transporte Universitário
+  → Laravel + PostgreSQL + Multi-tenant
+  → Gestão de alunos, faculdades e rotas
+
+- App de Carteira Estudantil
+  → React Native
+  → Integração com backend + autenticação
 
 ## Onde me encontrar
 
