@@ -1,57 +1,146 @@
+<h1 align="center">Olá, eu sou o Diego Medeiros 👋</h1>
 
-## Sobre mim
+<h3 align="center">Desenvolvedor FullStack | Laravel & React Native</h3>
 
-- Me chamo Diego Medeiros, Sou desenvolvedor FullStack com foco em aplicações web e mobile. Atualmente trabalho com Laravel e React Native, desenvolvendo soluções reais para gestão e automação de processos. Tenho experiência com APIs REST, integrações com banco de dados e construção de interfaces funcionais.
-- Tecnólogo em Analise e Desenvolvimento de Sistemas
-- Experiência prática com sistemas em produção
-- Desenvolvimento de apps mobile com React Native
-- Integração com APIs e automação de processos
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF2D20&center=true&vCenter=true&width=600&lines=Desenvolvedor+FullStack;Laravel+%2B+React+Native;APIs+REST+%26+Integra%C3%A7%C3%B5es;Automa%C3%A7%C3%A3o+de+Processos" alt="Typing SVG" />
+</p>
 
-## Minhas Skills
+<p align="center">
+  <a href="https://www.linkedin.com/in/diego-medeiros-alves-de-ara%C3%BAjo-filho-71ba2a306/">
+    <img src="https://img.shields.io/badge/-DiegoMedeiros-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:dgmedeirosaafilho@gmail.com">
+    <img src="https://img.shields.io/badge/-dgmedeirosaafilho@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/diegofilho19">
+    <img src="https://img.shields.io/github/followers/diegofilho19?label=follow&style=social" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=diegofilho19&color=FF2D20&style=flat-square" alt="profile views" />
+</p>
+
+---
+
+### 👨‍💻 Sobre mim
+
+Sou **Desenvolvedor FullStack** com foco em aplicações web e mobile. Atualmente trabalho com **Laravel** e **React Native**, desenvolvendo soluções reais para gestão e automação de processos. Tenho experiência com APIs REST, integrações com banco de dados e construção de interfaces funcionais.
+
+- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas
+- 🏗️ Experiência prática com sistemas em produção
+- 📱 Desenvolvimento de apps mobile com React Native
+- 🔗 Integração com APIs e automação de processos
+
+---
+
+### 🛠️ Minhas Skills
 
 **Aplicações e dados**
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-
+<p align="left">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white" />
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
 
 **Utilidades**
 
-![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" />
+</p>
 
 **DevOps**
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 **Ferramentas de desenvolvimento**
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-%23000000?style=for-the-badge&logo=Cursor&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-%23000000?style=for-the-badge&logo=Cursor&logoColor=white" />
+</p>
 
-<br/>
+---
 
-## Projetos em destaque
+### 🚀 Projetos em destaque
 
-- Sistema de Transporte Universitário
-  → Laravel + PostgreSQL + Multi-tenant
-  → Gestão de alunos, faculdades e rotas
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎓 Sistema de Transporte Universitário</h4>
+      <p>
+        Plataforma multi-tenant para gestão de alunos, faculdades e rotas.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/multi--tenant-333?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💳 App de Carteira Estudantil</h4>
+      <p>
+        Aplicativo mobile com integração ao backend e autenticação de usuários.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
+        <img src="https://img.shields.io/badge/API%20REST-006bed?style=flat-square" />
+        <img src="https://img.shields.io/badge/auth-333?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏠 Cadimob</h4>
+      <p>
+        Aplicativo para cadastro de imóveis com suporte offline-first, permitindo cadastrar e sincronizar dados mesmo sem conexão com a internet.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
+        <img src="https://img.shields.io/badge/offline--first-333?style=flat-square" />
+        <img src="https://img.shields.io/badge/sincroniza%C3%A7%C3%A3o-006bed?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
+</table>
 
-- App de Carteira Estudantil
-  → React Native
-  → Integração com backend + autenticação
+---
 
-## Onde me encontrar
+### 📊 Estatísticas do GitHub
 
-[![Linkedin](https://img.shields.io/badge/-DiegoMedeiros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-medeiros-alves-de-ara%C3%BAjo-filho-71ba2a306/)](https://www.linkedin.com/in/diego-medeiros-alves-de-ara%C3%BAjo-filho-71ba2a306/)
-[![Gmail Badge](https://img.shields.io/badge/-dgmedeirosaafilho@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dgmedeirosaafilho@gmail.com)](mailto:dgmedeirosaafilho@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/diegofilho19?label=follow&style=social)](https://github.com/diegofilho19)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=diegofilho19&show_icons=true&theme=dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegofilho19&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=diegofilho19&theme=dark&hide_border=true" />
+</p>
+
+---
+
+### 📫 Onde me encontrar
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/diego-medeiros-alves-de-ara%C3%BAjo-filho-71ba2a306/">
+    <img src="https://img.shields.io/badge/-DiegoMedeiros-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:dgmedeirosaafilho@gmail.com">
+    <img src="https://img.shields.io/badge/-dgmedeirosaafilho@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/diegofilho19">
+    <img src="https://img.shields.io/github/followers/diegofilho19?label=follow&style=social" />
+  </a>
+</p>
