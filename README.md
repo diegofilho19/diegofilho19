@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="m3g6tiipyaoa1.gif" width="100%" height="300" alt="Banner" />
+</p>
+
 <h1 align="center">Olá, eu sou o Diego Medeiros 👋</h1>
 
 <h3 align="center">Desenvolvedor FullStack | Laravel & React Native</h3>
@@ -120,13 +124,13 @@ Sou **Desenvolvedor FullStack** com foco em aplicações web e mobile. Atualment
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=diegofilho19&show_icons=true&theme=dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegofilho19&layout=compact&theme=dark&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=diegofilho19&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diegofilho19&theme=github_dark" />
 </p>
 
 ---
@@ -144,3 +148,9 @@ Sou **Desenvolvedor FullStack** com foco em aplicações web e mobile. Atualment
     <img src="https://img.shields.io/github/followers/diegofilho19?label=follow&style=social" />
   </a>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
